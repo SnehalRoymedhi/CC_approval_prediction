@@ -1,3 +1,6 @@
+
+# CC_approval_prediction
+
 ![banner](assets/image.png)
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
@@ -222,5 +225,3 @@ To deploy this project on streamlit share, follow these steps:
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
 
-
-# CC_approval_prediction
