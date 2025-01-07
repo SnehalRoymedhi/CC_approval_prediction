@@ -122,7 +122,8 @@ git init
 Clone the project
 
 ```bash
-git clone https://github.com/semasuka/Credit-card-approval-prediction-classification.git
+git clone https://github.com/SnehalRoymedhi/Credit-card-approval-prediction-classification.git
+
 ```
 
 enter the project directory
@@ -158,7 +159,7 @@ If you are having issue with streamlit, please follow [this tutorial on how to s
 
 ## Explore the notebook
 
-To explore the notebook file [here](https://nbviewer.org/github/semasuka/Income-classification/blob/master/Income_Classification.ipynb)
+To explore the notebook file [here](https://nbviewer.org/github/SnehalRoymedhi/Income-classification/blob/master/Income_Classification.ipynb)
 
 ## Deployment on streamlit
 
